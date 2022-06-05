@@ -105,20 +105,20 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 48px;
+    font-size: 50px;
   }
   h2 {
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
   }
   h3 {
-    font-size: 20px;
+    font-size: 22px;
   }
   p {
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
   }
-  .yoga-link a {
+  .yoga-link {
     display: block;
     text-align: center;
   }
